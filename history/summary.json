@@ -5,7 +5,7 @@
     "slug": "google",
     "status": "up",
     "uptime": "100.00%",
-    "time": 25
+    "time": 34
   },
   {
     "name": "Wikipedia",
@@ -13,7 +13,7 @@
     "slug": "wikipedia",
     "status": "up",
     "uptime": "100.00%",
-    "time": 36
+    "time": 31
   },
   {
     "name": "Hacker News",
@@ -21,7 +21,7 @@
     "slug": "hacker-news",
     "status": "up",
     "uptime": "100.00%",
-    "time": 235
+    "time": 305
   },
   {
     "name": "Broken Site",
@@ -32,20 +32,12 @@
     "time": 0
   },
   {
-    "name": "Secret Site",
-    "url": "$SECRET_SITE",
-    "slug": "secret-site",
-    "status": "down",
-    "uptime": "100.00%",
-    "time": 0
-  },
-  {
-    "name": "LunaNova's Blog",
+    "name": "Luna Nova's Blog",
     "url": "https://lunanova.top",
     "slug": "luna-nova-s-blog",
     "status": "up",
     "uptime": "100.00%",
-    "time": 3125
+    "time": 2811
   },
   {
     "name": "Slug blog",
@@ -53,7 +45,7 @@
     "slug": "slug-blog",
     "status": "up",
     "uptime": "100.00%",
-    "time": 10931
+    "time": 5982
   },
   {
     "name": "BeepBeep",
@@ -61,6 +53,6 @@
     "slug": "beep-beep",
     "status": "up",
     "uptime": "100.00%",
-    "time": 14016
+    "time": 7492
   }
 ]
