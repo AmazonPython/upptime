@@ -35,24 +35,24 @@
     "name": "Luna Nova's Blog",
     "url": "https://lunanova.top",
     "slug": "luna-nova-s-blog",
-    "status": "down",
-    "uptime": "99.38%",
-    "time": 2108
+    "status": "up",
+    "uptime": "100.00%",
+    "time": 2055
   },
   {
     "name": "Slug blog",
     "url": "http://slug.lunanova.top",
     "slug": "slug-blog",
-    "status": "down",
-    "uptime": "99.45%",
-    "time": 4257
+    "status": "up",
+    "uptime": "100.00%",
+    "time": 3409
   },
   {
     "name": "BeepBeep",
     "url": "http://beepbeep.lunanova.top",
     "slug": "beep-beep",
-    "status": "down",
-    "uptime": "99.58%",
-    "time": 5391
+    "status": "up",
+    "uptime": "100.00%",
+    "time": 4490
   }
 ]
