@@ -16,6 +16,11 @@ sites:
     url: $SECRET_SITE
   - name: LunaNova's Blog
     url: https://lunanova.top
+  - name: Slug blog
+    url: http://slug.lunanova.top
+  - name: BeepBeep
+    url: http://beepbeep.lunanova.top
+  
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
