@@ -12,9 +12,7 @@ sites:
     url: https://news.ycombinator.com
   - name: Broken Site
     url: https://thissitedoesnotexist.com
-  - name: Secret Site
-    url: $SECRET_SITE
-  - name: LunaNova's Blog
+  - name: Luna Nova's Blog
     url: https://lunanova.top
   - name: Slug blog
     url: http://slug.lunanova.top
