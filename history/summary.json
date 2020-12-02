@@ -43,16 +43,16 @@
     "name": "Slug blog",
     "url": "http://slug.lunanova.top",
     "slug": "slug-blog",
-    "status": "down",
+    "status": "up",
     "uptime": "98.88%",
-    "time": 1522
+    "time": 1545
   },
   {
     "name": "BeepBeep",
     "url": "http://beepbeep.lunanova.top",
     "slug": "beep-beep",
-    "status": "down",
+    "status": "up",
     "uptime": "98.89%",
-    "time": 1853
+    "time": 1833
   }
 ]
