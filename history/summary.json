@@ -5,7 +5,15 @@
     "slug": "google",
     "status": "up",
     "uptime": "100.00%",
-    "time": 47
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 54,
+    "timeDay": 50,
+    "timeWeek": 54,
+    "timeMonth": 54,
+    "timeYear": 54
   },
   {
     "name": "Wikipedia",
@@ -13,7 +21,15 @@
     "slug": "wikipedia",
     "status": "up",
     "uptime": "100.00%",
-    "time": 55
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 64,
+    "timeDay": 102,
+    "timeWeek": 64,
+    "timeMonth": 64,
+    "timeYear": 64
   },
   {
     "name": "Hacker News",
@@ -21,7 +37,15 @@
     "slug": "hacker-news",
     "status": "up",
     "uptime": "100.00%",
-    "time": 399
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 457,
+    "timeDay": 524,
+    "timeWeek": 457,
+    "timeMonth": 457,
+    "timeYear": 457
   },
   {
     "name": "Broken Site",
@@ -29,30 +53,62 @@
     "slug": "broken-site",
     "status": "down",
     "uptime": "100.00%",
-    "time": 0
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0
   },
   {
     "name": "Luna Nova's Blog",
     "url": "https://lunanova.top",
     "slug": "luna-nova-s-blog",
     "status": "up",
-    "uptime": "98.85%",
-    "time": 1331
+    "uptime": "98.95%",
+    "uptimeDay": "98.66%",
+    "uptimeWeek": "98.95%",
+    "uptimeMonth": "98.95%",
+    "uptimeYear": "98.95%",
+    "time": 1953,
+    "timeDay": 1912,
+    "timeWeek": 1953,
+    "timeMonth": 1953,
+    "timeYear": 1953
   },
   {
     "name": "Slug blog",
     "url": "http://slug.lunanova.top",
     "slug": "slug-blog",
-    "status": "up",
-    "uptime": "98.83%",
-    "time": 1474
+    "status": "down",
+    "uptime": "98.92%",
+    "uptimeDay": "98.70%",
+    "uptimeWeek": "98.92%",
+    "uptimeMonth": "98.92%",
+    "uptimeYear": "98.92%",
+    "time": 1721,
+    "timeDay": 1580,
+    "timeWeek": 1721,
+    "timeMonth": 1721,
+    "timeYear": 1721
   },
   {
     "name": "BeepBeep",
     "url": "http://beepbeep.lunanova.top",
     "slug": "beep-beep",
-    "status": "up",
-    "uptime": "99.10%",
-    "time": 1786
+    "status": "down",
+    "uptime": "99.18%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.18%",
+    "uptimeMonth": "99.18%",
+    "uptimeYear": "99.18%",
+    "time": 1996,
+    "timeDay": 933,
+    "timeWeek": 1996,
+    "timeMonth": 1996,
+    "timeYear": 1996
   }
 ]
