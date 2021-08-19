@@ -15,9 +15,11 @@ sites:
   - name: Luna Nova's Blog
     url: https://lunanova.top
   - name: Slug blog
-    url: http://slug.lunanova.top
+    url: https://slug.lunanova.top
   - name: BeepBeep
-    url: http://beepbeep.lunanova.top
+    url: https://beepbeep.lunanova.top
+  - name: Forum
+    url: https://forum.lunanova.top
   
 
 status-website:
