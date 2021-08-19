@@ -14,10 +14,13 @@ sites:
     url: https://thissitedoesnotexist.com
   - name: Luna Nova's Blog
     url: https://lunanova.top
+    icon: https://lunanova.top/static/images/favicon/favicon.ico
   - name: Slug blog
     url: https://slug.lunanova.top
+    icon: https://slug.lunanova.top/images/favicon.jpg
   - name: BeepBeep
     url: https://beepbeep.lunanova.top
+    icon: https://beepbeep.lunanova.top/images/favicon.png
   - name: Forum
     url: https://forum.lunanova.top
   
