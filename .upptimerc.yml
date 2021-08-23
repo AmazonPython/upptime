@@ -23,7 +23,7 @@ sites:
     icon: https://beepbeep.lunanova.top/images/favicon.png
   - name: Forum
     url: https://forum.lunanova.top
-  
+    icon: https://forum.lunanova.top/favicon.ico
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
