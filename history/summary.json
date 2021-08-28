@@ -242,17 +242,17 @@
     "url": "https://forum.lunanova.top",
     "icon": "https://forum.lunanova.top/favicon.ico",
     "slug": "forum",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1546,
-    "timeDay": 1356,
-    "timeWeek": 1487,
-    "timeMonth": 1546,
-    "timeYear": 1546,
+    "time": 1600,
+    "timeDay": 2026,
+    "timeWeek": 1573,
+    "timeMonth": 1600,
+    "timeYear": 1600,
     "dailyMinutesDown": {}
   }
 ]
