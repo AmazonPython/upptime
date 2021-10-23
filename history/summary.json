@@ -79,7 +79,7 @@
     "url": "https://lunanova.top",
     "icon": "https://lunanova.top/static/images/favicon/favicon.ico",
     "slug": "luna-nova-s-blog",
-    "status": "up",
+    "status": "down",
     "uptime": "99.77%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -88,7 +88,7 @@
     "time": 1909,
     "timeDay": 2005,
     "timeWeek": 2620,
-    "timeMonth": 2796,
+    "timeMonth": 2823,
     "timeYear": 1909,
     "dailyMinutesDown": {
       "2021-03-17": 24,
