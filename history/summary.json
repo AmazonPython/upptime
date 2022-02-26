@@ -78,7 +78,7 @@
     "url": "https://lunanova.top",
     "icon": "https://lunanova.top/static/images/favicon/favicon.ico",
     "slug": "luna-nova-s-blog",
-    "status": "up",
+    "status": "down",
     "uptime": "99.83%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -87,7 +87,7 @@
     "time": 1944,
     "timeDay": 1685,
     "timeWeek": 1577,
-    "timeMonth": 2320,
+    "timeMonth": 2338,
     "timeYear": 1970,
     "dailyMinutesDown": {
       "2021-03-17": 24,
@@ -112,7 +112,7 @@
     "time": 1308,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 1372,
+    "timeMonth": 1381,
     "timeYear": 1289,
     "dailyMinutesDown": {
       "2021-03-17": 23,
@@ -137,7 +137,7 @@
     "time": 1322,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 1214,
+    "timeMonth": 1222,
     "timeYear": 1285,
     "dailyMinutesDown": {
       "2021-03-17": 23,
@@ -162,7 +162,7 @@
     "time": 1369,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 1465,
+    "timeMonth": 1446,
     "timeYear": 1369,
     "dailyMinutesDown": {}
   }
