@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 98,
-    "timeDay": 51,
-    "timeWeek": 74,
-    "timeMonth": 98,
+    "timeDay": 54,
+    "timeWeek": 71,
+    "timeMonth": 95,
     "timeYear": 101,
     "dailyMinutesDown": {}
   },
@@ -29,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 199,
-    "timeDay": 154,
-    "timeWeek": 241,
-    "timeMonth": 199,
+    "timeDay": 171,
+    "timeWeek": 240,
+    "timeMonth": 201,
     "timeYear": 226,
     "dailyMinutesDown": {}
   },
@@ -47,9 +47,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 410,
-    "timeDay": 362,
-    "timeWeek": 386,
-    "timeMonth": 384,
+    "timeDay": 427,
+    "timeWeek": 391,
+    "timeMonth": 388,
     "timeYear": 404,
     "dailyMinutesDown": {
       "2021-03-15": 201
@@ -84,16 +84,15 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 1940,
-    "timeDay": 1611,
-    "timeWeek": 1716,
-    "timeMonth": 1637,
-    "timeYear": 1960,
+    "time": 1939,
+    "timeDay": 1486,
+    "timeWeek": 1710,
+    "timeMonth": 1635,
+    "timeYear": 1961,
     "dailyMinutesDown": {
       "2021-03-17": 24,
       "2021-03-14": 21,
-      "2021-03-10": 27,
-      "2021-03-08": 25
+      "2021-03-10": 27
     }
   },
   {
@@ -107,16 +106,15 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 1311,
+    "time": 1310,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 1129,
-    "timeYear": 1289,
+    "timeMonth": 1197,
+    "timeYear": 1290,
     "dailyMinutesDown": {
       "2021-03-17": 23,
       "2021-03-14": 21,
-      "2021-03-10": 27,
-      "2021-03-08": 24
+      "2021-03-10": 27
     }
   },
   {
@@ -133,13 +131,12 @@
     "time": 1319,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 1197,
-    "timeYear": 1298,
+    "timeMonth": 1277,
+    "timeYear": 1299,
     "dailyMinutesDown": {
       "2021-03-17": 23,
       "2021-03-14": 21,
-      "2021-03-10": 27,
-      "2021-03-08": 23
+      "2021-03-10": 27
     }
   },
   {
@@ -156,7 +153,7 @@
     "time": 1369,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 1297,
+    "timeMonth": 1273,
     "timeYear": 1369,
     "dailyMinutesDown": {}
   }
