@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 98,
-    "timeDay": 69,
-    "timeWeek": 65,
-    "timeMonth": 92,
+    "timeDay": 71,
+    "timeWeek": 67,
+    "timeMonth": 93,
     "timeYear": 101,
     "dailyMinutesDown": {}
   },
@@ -29,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 199,
-    "timeDay": 73,
-    "timeWeek": 184,
-    "timeMonth": 204,
+    "timeDay": 251,
+    "timeWeek": 196,
+    "timeMonth": 207,
     "timeYear": 228,
     "dailyMinutesDown": {}
   },
@@ -47,13 +47,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 409,
-    "timeDay": 236,
-    "timeWeek": 348,
+    "timeDay": 358,
+    "timeWeek": 338,
     "timeMonth": 390,
     "timeYear": 402,
-    "dailyMinutesDown": {
-      "2021-03-15": 201
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Broken Site",
@@ -83,12 +81,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.99%",
-    "time": 1939,
-    "timeDay": 1684,
-    "timeWeek": 1620,
-    "timeMonth": 1631,
-    "timeYear": 1914,
+    "uptimeYear": "100.00%",
+    "time": 1938,
+    "timeDay": 1509,
+    "timeWeek": 1624,
+    "timeMonth": 1630,
+    "timeYear": 1913,
     "dailyMinutesDown": {
       "2021-03-17": 24
     }
@@ -103,12 +101,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.99%",
-    "time": 1313,
+    "uptimeYear": "100.00%",
+    "time": 1314,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1251,
+    "timeYear": 1249,
     "dailyMinutesDown": {
       "2021-03-17": 23
     }
@@ -123,12 +121,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.99%",
-    "time": 1322,
+    "uptimeYear": "100.00%",
+    "time": 1323,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1261,
+    "timeYear": 1264,
     "dailyMinutesDown": {
       "2021-03-17": 23
     }
