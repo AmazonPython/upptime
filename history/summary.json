@@ -76,7 +76,7 @@
     "url": "https://lunanova.top",
     "icon": "https://lunanova.top/static/images/favicon/favicon.ico",
     "slug": "luna-nova-s-blog",
-    "status": "up",
+    "status": "down",
     "uptime": "99.84%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -84,7 +84,7 @@
     "uptimeYear": "100.00%",
     "time": 1926,
     "timeDay": 1598,
-    "timeWeek": 1531,
+    "timeWeek": 1557,
     "timeMonth": 1584,
     "timeYear": 1907,
     "dailyMinutesDown": {}
@@ -104,7 +104,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1255,
+    "timeYear": 1257,
     "dailyMinutesDown": {}
   },
   {
