@@ -130,17 +130,17 @@
     "url": "https://forum.lunanova.top",
     "icon": "https://forum.lunanova.top/favicon.ico",
     "slug": "forum",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1369,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 1369,
+    "time": 1379,
+    "timeDay": 4069,
+    "timeWeek": 4069,
+    "timeMonth": 4069,
+    "timeYear": 1379,
     "dailyMinutesDown": {}
   }
 ]
