@@ -24,6 +24,9 @@ sites:
   - name: Forum
     url: https://forum.lunanova.top
     icon: https://forum.lunanova.top/favicon.ico
+  - name: Hive Store
+    url: https://hive.lunanova.top/
+    icon: https://hive.lunanova.top/favicon.png
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
@@ -38,7 +41,7 @@ status-website:
     - title: Status
       href: /
     - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+      href: https://github.com/AmazonPython/upptime.github.io
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
