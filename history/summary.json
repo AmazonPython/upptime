@@ -148,17 +148,17 @@
     "url": "https://hive.lunanova.top/",
     "icon": "https://hive.lunanova.top/favicon.png",
     "slug": "hive-store",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2166,
-    "timeDay": 1546,
-    "timeWeek": 2177,
-    "timeMonth": 2166,
-    "timeYear": 2166,
+    "time": 2346,
+    "timeDay": 4638,
+    "timeWeek": 2486,
+    "timeMonth": 2346,
+    "timeYear": 2346,
     "dailyMinutesDown": {}
   }
 ]
