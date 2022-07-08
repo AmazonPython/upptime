@@ -40,7 +40,7 @@
     "url": "https://news.ycombinator.com",
     "icon": "https://favicons.githubusercontent.com/news.ycombinator.com",
     "slug": "hacker-news",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -84,7 +84,7 @@
     "uptimeYear": "100.00%",
     "time": 1853,
     "timeDay": 1261,
-    "timeWeek": 1076,
+    "timeWeek": 1167,
     "timeMonth": 1540,
     "timeYear": 1879,
     "dailyMinutesDown": {}
@@ -102,7 +102,7 @@
     "uptimeYear": "100.00%",
     "time": 1356,
     "timeDay": 1163,
-    "timeWeek": 968,
+    "timeWeek": 1042,
     "timeMonth": 2084,
     "timeYear": 1375,
     "dailyMinutesDown": {}
@@ -120,7 +120,7 @@
     "uptimeYear": "100.00%",
     "time": 1361,
     "timeDay": 1139,
-    "timeWeek": 958,
+    "timeWeek": 1042,
     "timeMonth": 1687,
     "timeYear": 1392,
     "dailyMinutesDown": {}
@@ -138,7 +138,7 @@
     "uptimeYear": "100.00%",
     "time": 1465,
     "timeDay": 1213,
-    "timeWeek": 1129,
+    "timeWeek": 1259,
     "timeMonth": 2008,
     "timeYear": 1465,
     "dailyMinutesDown": {}
@@ -156,7 +156,7 @@
     "uptimeYear": "100.00%",
     "time": 2277,
     "timeDay": 1283,
-    "timeWeek": 1770,
+    "timeWeek": 1998,
     "timeMonth": 2277,
     "timeYear": 2277,
     "dailyMinutesDown": {}
